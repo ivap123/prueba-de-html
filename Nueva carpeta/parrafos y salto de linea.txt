@@ -1,0 +1,10 @@
+ <boody>
+        <p>primer parrafo.<br>salto de linea</p>
+
+        <p> segundo parrafo</p>
+        <p>tercer de parrafo</p>
+    </boody>
+
+
+<p>texto</p>= parrafo
+<br> salto de linea 
